@@ -7,3 +7,6 @@
 [file_servers]
 192.192.1.4
 
+[workstations]
+192.192.1.4
+
